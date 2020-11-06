@@ -1,2 +1,2 @@
 # mapdemo
-mapsbruh
+maps
